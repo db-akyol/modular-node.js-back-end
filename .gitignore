@@ -1,0 +1,18 @@
+# Bagimliliklar
+node_modules/
+
+# Ortam degiskenleri (ornek icin .env.example dosyasina bakin)
+.env
+.env.local
+*.env
+
+# Loglar
+logs/
+*.log
+npm-debug.log*
+
+# Editor / isletim sistemi
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
